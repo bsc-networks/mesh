@@ -6,4 +6,5 @@
 * `10.20.8/22` – Cloyne
   * `10.20.11.210` – Cloyne-Kingman
 * `10.20.12/22` – Wilde
+  * `10.20.15.210` – Wilde-Lothlorien
 * `10.20.16/22` – Lothlorien
