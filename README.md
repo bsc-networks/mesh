@@ -1,6 +1,6 @@
 ## Photos ##
 
-Photos from roofs, deployments, etc. are on [Google Drive](https://drive.google.com/folderview?id=0Bz0lCyRxvUUTflpZSTBYY2UwVUR0ODVIcG1mbzZjT290M2tqRGJkU1Azb0VoSmk5cjRmS00&usp=sharing). Feel free to request edit access to add your photos.
+Photos from roofs, deployments, etc., are on [Google Drive](https://drive.google.com/folderview?id=0Bz0lCyRxvUUTflpZSTBYY2UwVUR0ODVIcG1mbzZjT290M2tqRGJkU1Azb0VoSmk5cjRmS00&usp=sharing). Feel free to request edit access to add your photos.
 
 ## IP pools ##
 
