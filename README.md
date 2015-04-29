@@ -9,7 +9,7 @@ Photos from roofs, deployments, etc., are on [Google Drive](https://drive.google
 * `10.20.16/22` – Casa Zimbabwe
 * `10.20.24/22` – Castro
 * `10.20.32/22` – Cloyne
-  * `10.20.35.210` – Cloyne-Kingman
+  * `10.20.35.210` – Cloyne-Kingman (AP)
 * `10.20.40/22` – Convent
 * `10.20.48/22` – Davis
 * `10.20.56/22` – Euclid
@@ -18,7 +18,7 @@ Photos from roofs, deployments, etc., are on [Google Drive](https://drive.google
 * `10.20.80/22` – Hoyt
 * `10.20.88/22` – Kidd
 * `10.20.96/22` – Kingman
-  * `10.20.99.210` – Kingman-Cloyne
+  * `10.20.99.210` – Kingman-Cloyne (station)
 * `10.20.104/22` – Lothlorien
   * `10.20.107.210` – Lothlorien-Wilde
 * `10.20.112/22` – Northside
