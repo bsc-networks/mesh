@@ -13,7 +13,7 @@ Photos from roofs, deployments, etc., are on [Google Drive](https://drive.google
   * `10.20.27.210` – Castro-Afro (station)
   * `10.20.27.211` – Castro-Sherman (AP)
 * `10.20.32/22` – Cloyne
-  * `10.20.35.210` – Cloyne-Kingman (AP)
+  * `10.20.35.210` – Cloyne-Kingman (AP) (WLAN MAC 24:A4:3C:9C:F6:AD, LAN MAC 24:A4:3C:9D:F6:AD)
 * `10.20.40/22` – Convent
 * `10.20.48/22` – Davis
 * `10.20.56/22` – Euclid
@@ -33,5 +33,6 @@ Photos from roofs, deployments, etc., are on [Google Drive](https://drive.google
   * `10.20.139.210` – Sherman-Castro (station)
 * `10.20.144/22` – Stebbins
 * `10.20.152/22` – Wilde
+  * mesh router – (WAN MAC E8:DE:27:FC:F8:EF, LAN MAC E8:DE:27:FC:F8:EE)
   * `10.20.155.210` – Wilde-Loth (AP)
 * `10.20.160/22` – Wolf
