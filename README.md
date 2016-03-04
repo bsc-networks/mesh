@@ -34,6 +34,7 @@ Photos from roofs, deployments, etc., are on [Google Drive](https://drive.google
 * `10.20.136/22` – Sherman
   * `10.20.139.210` – Sherman-Castro (station)
 * `10.20.144/22` – Stebbins
+  * router - (WAN MAC: C4:6E:1F:C5:7A:E6)
 * `10.20.152/22` – Wilde
   * mesh router – (WAN MAC E8:DE:27:FC:F8:EF, LAN MAC E8:DE:27:FC:F8:EE)
   * `10.20.155.210` – Wilde-Loth (AP)
