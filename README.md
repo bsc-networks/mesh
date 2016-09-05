@@ -13,7 +13,8 @@ Photos from roofs, deployments, etc., are on [Google Drive](https://drive.google
   * `10.20.11.210` – Afro-Castro (AP)
   * `10.20.11.211` – Afro-Loth (station)
 * `10.20.16/22` – Casa Zimbabwe
-  * router - (WAN MAC C4:6E:1F:C5:7B:07)
+  * `10.20.16.1` - router (WAN MAC C4:6E:1F:C5:7B:07)
+  * `10.20.19.210` - (WLAN MAC 44:D9:E7:B8:9B:E2)
 * `10.20.24/22` – Castro
   * `10.20.27.210` – Castro-Afro (station)
   * `10.20.27.211` – Castro-Sherman (AP)
