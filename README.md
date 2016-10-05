@@ -33,7 +33,7 @@ Photos from roofs, deployments, etc., are on [Google Drive](https://drive.google
 * `10.20.88/22` – Kidd
   * router - (WAN MAC C4:6E:1F:C5:41:EA)
 * `10.20.96/22` – Kingman
-  * `10.20.35.212` – Kingman-Cloyne (station)
+  * `10.20.35.212` – Kingman-Cloyne (station) (temporary moved from 10.20.99.210 until Kingman gets its own router)
 * `10.20.104/22` – Lothlorien
   * `10.20.107.210` – Loth-Wilde (station)
   * `10.20.107.211` – Loth-Afro (AP)
