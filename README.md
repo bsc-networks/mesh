@@ -26,8 +26,8 @@ Photos from roofs, deployments, etc., are on [Google Drive](https://drive.google
 * `10.20.40/22` – Convent
 * `10.20.48/22` – Davis
 * `10.20.56/22` – Euclid
-  * `10.20.56.210 - Euclid-Cloyne (station) (WLAN MAC 04:18:D6:A4:85:81, LAN MAC 04:18:D6:A4:84:77)
-  *  10.20.59.211 - Euclid-CZ (station)
+  * `10.20.56.210` - Euclid-Cloyne (station) (WLAN MAC 04:18:D6:A4:85:81, LAN MAC 04:18:D6:A4:84:77)
+  * `10.20.59.211` - Euclid-CZ (station)
 * `10.20.64/22` – Fenwick
 * `10.20.72/22` – HiP
 * `10.20.80/22` – Hoyt
