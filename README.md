@@ -49,3 +49,4 @@ Photos from roofs, deployments, etc., are on [Google Drive](https://drive.google
   * router – (WAN MAC E8:DE:27:FC:F8:EF, LAN MAC E8:DE:27:FC:F8:EE)
   * `10.20.155.210` – Wilde-Loth (AP)
 * `10.20.160/22` – Wolf
+  * `10.20.160.1` – router
