@@ -12,13 +12,13 @@ Photos from roofs, deployments, etc., are on [Google Drive](https://drive.google
 * `10.20.8/22` – Afro
   * `10.20.11.210` – Afro-Castro (AP)
   * `10.20.11.211` – Afro-Loth (station)
-* `10.20.16/22` – Casa Zimbabwe
+* `10.20.16/20` – Casa Zimbabwe
   * `10.20.16.1` - router (WAN MAC C4:6E:1F:C5:7B:07)
   * `10.20.19.210` - CZ-Euclid (AP) (WLAN MAC 44:D9:E7:B8:9B:E2)
-* `10.20.24/22` – Castro
+* `10.20.24/22` – Castro (Inactive. Note: Afro, CZ, and PoC/Castro will need to reconfigure their IP pools if and when the southside houses gets added to the same network - probably CZ's should be 10.20.8.1/21, Afro should be 10.20.16.1/22, and PoC should be 10.20.24.1/22).
   * `10.20.27.210` – Castro-Afro (station)
   * `10.20.27.211` – Castro-Sherman (AP)
-* `10.20.32/22` – Cloyne
+* `10.20.32/21` – Cloyne
   * `10.20.35.210` – Cloyne-Kingman (AP) (WLAN MAC 24:A4:3C:9C:F6:AD, LAN MAC 24:A4:3C:9D:F6:AD)
   * `10.20.35.211` – Cloyne-Euclid (AP) (WLAN MAC 04:18:D6:A4:84:77, LAN MAC 04:18:D6:A4:84:77)
   * `10.20.35.240` – Cloyne-Euclid (KORUZA) (management port MAC B8:27:EB:7A:6A:BB)
